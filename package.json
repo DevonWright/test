@@ -4,9 +4,15 @@
   "description": "Im just practicing git",
   "main": "index.js",
   "scripts": {
+    "watch": "",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "mongodb": "^3.6.2",
+    "nodemon": "^2.0.6"
+  }
 }

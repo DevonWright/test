@@ -1,1 +1,1 @@
-Im just practicing git :)
+Practicing Git and GitFlow. :)              

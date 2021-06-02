@@ -1,1 +1,1 @@
-Practicing Git and GitFlow. :)              
+This is a throwaway repo where I practice Git and Git Flow.
